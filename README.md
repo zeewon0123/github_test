@@ -20,3 +20,4 @@ this project classify SNS content (text) into predefined categories (e.g., posit
   
 ## Reference
 This script uses pretrained models from Huggingface, **the model nlptown/bert-base-multilingual-uncased-sentiment** 
+**https://neos518.tistory.com/263**
